@@ -1,0 +1,6 @@
+import numpy as np ### from the readings I learned to find man through using array 
+a = np.array([2432, 25343, 12354,1234 ,2343])
+a.max()
+
+list = ["2432", "25343", "12354", "1234", "2343"] 
+max(list)   ### based on the list reading I played around with the order before I had it list(max) 
